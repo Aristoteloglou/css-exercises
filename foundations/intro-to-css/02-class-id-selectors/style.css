@@ -1,0 +1,19 @@
+.odd-claas {
+    background-color: rgb(230, 159, 186);
+    font-family: Verdana, sans-serif
+}
+
+#id-2 {
+    color:rgb(54, 35, 221);
+    font-size:36px;
+}
+
+.odd-claas.class-3 {
+    font-size: 24px;
+}
+
+#id-4 {
+    background-color: rgb(102, 179, 113);
+    font-size:24px;
+    font-weight: bold;
+}
